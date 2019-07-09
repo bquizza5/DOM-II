@@ -68,14 +68,17 @@ nav_a[1].addEventListener(click, function(e){
     e.preventDefault();
     e.stopPropagation();
 })
+
 nav_a[2].addEventListener(click, function(e){
     e.preventDefault();
     e.stopPropagation();
 })
+
 nav_a[3].addEventListener(click, function(e){
     e.preventDefault();
     e.stopPropagation();
 })
+
 nav_a[4].addEventListener(click, function(e){
     e.preventDefault();
     e.stopPropagation();
